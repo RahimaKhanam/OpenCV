@@ -1,11 +1,11 @@
 import cv2 as cv
 
-# Reading images in openCV
+# Reading images 
 # img =cv.imread('Photos/cat_large.jpg')
 # cv.imshow('Cat', img)
 # cv.waitKey(0)
 
-# Reading videos in openCV
+# Reading videos 
 capture = cv.VideoCapture('Videos/dog.mp4')
 
 while True:
